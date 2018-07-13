@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="9" total="10" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23" started-at="2018-07-09T14:31:26Z" finished-at="2018-07-09T14:31:26Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23" started-at="2018-07-09T14:31:26Z" finished-at="2018-07-09T14:31:26Z">
+      <class name="GameTest">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:GameTest@573f2bb1]" name="beforeMethod" is-config="true" duration-ms="4" started-at="2018-07-09T15:31:26Z" finished-at="2018-07-09T15:31:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="spare()[pri:0, instance:GameTest@573f2bb1]" name="spare" duration-ms="6" started-at="2018-07-09T15:31:26Z" finished-at="2018-07-09T15:31:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- spare -->
+      </class> <!-- GameTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
